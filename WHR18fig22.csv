@@ -1,4 +1,4 @@
-﻿country,happiness.score,Whisker-high,Whisker-low,Dystopia1.92.residual,GDP.per.capita,socia.support,healthy.life.expectancy,freedom,generosity,perceptions.of.corruption,rank
+country,happiness.score,whiskerHigh,WhiskerLow,Dystopia1.92.residual,GDP.per.capita,socia.support,healthy.life.expectancy,freedom,generosity,perceptions.of.corruption,rank
 Finland,7.632,7.695,7.569,2.595,1.305,1.592,0.874,0.681,0.192,0.393,1
 Norway,7.594,7.657,7.53,2.383,1.456,1.582,0.861,0.686,0.286,0.34,2
 Denmark,7.555,7.623,7.487,2.37,1.351,1.59,0.868,0.683,0.284,0.408,3
